@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   - 💻 Coding enthusiast and passionate backend developer  
   
-  - 🌟 Currently honing my skills in competitive programming
+  - 🌟 Currently honing my skills in competitive programming</p>
 
     <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
 
