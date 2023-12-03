@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">A passionate backend developer</h3>
-<p align="center"><img width="500" src="https://github.com/dinuhifi/dinuhifi/blob/main/github.gif"></p>
+<h1 align="center">Hello 👋, I'm Dinesh</h1>
+<h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
+<p align="center"><img width="1000" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
+## About Me
+
+  🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
+  👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)  
+  💻 Coding enthusiast and passionate backend developer  
+  🌟 Currently honing my skills in competitive programming  
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
 
