@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
 <p align="center"><img width="1000" height="400" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="70%">
       
