@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
 <p align="center"><img width="1000" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="100%">
+    <td width="70%">
       
 ## About Me
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌟 Currently honing my skills in competitive programming
 
     </td>
-    <td width="100%">
+    <td width="30%">
       <p align="right">
         <img width="400" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif">
       </p>
