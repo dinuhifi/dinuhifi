@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
   - 🌟 Currently honing my skills in competitive programming
 
-    
+    <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
 
