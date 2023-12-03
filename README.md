@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 
 ## About Me
 
-  🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
-  👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)  
-  💻 Coding enthusiast and passionate backend developer  
-  🌟 Currently honing my skills in competitive programming  
+  - 🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
+  
+  - 👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)  
+  
+  - 💻 Coding enthusiast and passionate backend developer  
+  
+  - 🌟 Currently honing my skills in competitive programming
+
+    
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
 
