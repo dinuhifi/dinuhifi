@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
 <p align="center"><img width="1000" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
-## About Me
+<p align="left">
+  <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
+  ## About Me
 
   - 🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
   
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
   
   - 🌟 Currently honing my skills in competitive programming
 
-    <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
+    
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **dinuhifi@gmail.com**
 
-- ⚡ Fun fact **I Procrastinate a lot.**
+- ⚡ Fun fact **I Procrastinate a lot.** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
