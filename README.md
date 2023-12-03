@@ -13,30 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Hi there, I'm Dinesh Kumar CP! 👋
+# Hi there, I'm Dinesh Kumar CP! 👋
 
-##About Me
+## About Me
 
-  🎓 1st year undergraduate student at Shiv Nadar University, Chennai
-  👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)
-  💻 Coding enthusiast and passionate backend developer
-  🌟 Currently honing my skills in competitive programming
-  
-##Tech Stack
+🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
+👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)  
+💻 Coding enthusiast and passionate backend developer  
+🌟 Currently honing my skills in competitive programming  
 
-  Languages: Python, C/C++
-  Tools & Technologies: Git, Flask
-  
-##Interests
+## Tech Stack
 
-  AI & Machine Learning
-  Data Structures & Algorithms
-  Competitive Programming
-  Backend Development
+### Languages:
+Python, C/C++
 
-##How to Reach Me
+### Tools & Technologies:
+Git, Flask
 
-  🔗 Discord: [hewwo](discordapp.com/users/708875392278200361)
-  📧 Email: [Gmail]dinuhifi@gmail.com
-  🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/dinesh-undefined-b00102298/)
-  🌐 Personal Website/Blog: Under Construction
+## Interests
+
+### 🤖 AI & Machine Learning
+### 🧠 Data Structures & Algorithms
+### 🏆 Competitive Programming
+### 🖥️ Backend Development
+
+## How to Reach Me
+
+🔗 Discord: hewwo  
+📧 Email: [Gmail](mailto:dinuhifi@gmail.com)  
+🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/your_profile)  
+🌐 Personal Website/Blog: Under Construction
