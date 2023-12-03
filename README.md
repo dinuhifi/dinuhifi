@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <p align="center"><img width="1000" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
 <p align="left">
-  <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
   ## About Me
 
   - 🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
   
   - 🌟 Currently honing my skills in competitive programming
 
-    
+    <p align="right"><img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif"></p>
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
 
