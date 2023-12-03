@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       
 ## About Me
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌟 Currently honing my skills in competitive programming
 
     </td>
-    <td width="50%">
+    <td width="100%">
       <p align="right">
         <img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif">
       </p>
