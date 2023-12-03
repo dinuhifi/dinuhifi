@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dinuhifi/dinuhifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Hi there, I'm Dinesh Kumar CP! 👋
+
+##About Me
+
+  🎓 1st year undergraduate student at Shiv Nadar University, Chennai
+  👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)
+  💻 Coding enthusiast and passionate backend developer
+  🌟 Currently honing my skills in competitive programming
+  
+##Tech Stack
+
+  Languages: Python, C/C++
+  Tools & Technologies: Git, Flask
+  
+##Interests
+
+  AI & Machine Learning
+  Data Structures & Algorithms
+  Competitive Programming
+  Backend Development
+
+##How to Reach Me
+
+  🔗 Discord: [hewwo](discordapp.com/users/708875392278200361)
+  📧 Email: [Gmail]dinuhifi@gmail.com
+  🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/dinesh-undefined-b00102298/)
+  🌐 Personal Website/Blog: Under Construction
