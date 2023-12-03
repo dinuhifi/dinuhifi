@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </td>
     <td width="30%">
       <p align="right">
-        <img width="400" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif">
+        <img width="200" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy1.gif">
       </p>
     </td>
   </tr>
