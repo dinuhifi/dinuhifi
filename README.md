@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="center" width=5000 src="https://github.com/dinuhifi/dinuhifi/blob/main/github.gif">
+<p align="center"><img src="https://github.com/dinuhifi/dinuhifi/blob/main/github.gif"></p>
 
 
 - 🔭 I’m currently working on [TaskHub API](https://github.com/dinuhifi/delta-R2)
