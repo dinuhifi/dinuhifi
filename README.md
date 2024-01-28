@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<--
 <h1 align="center">Hello 👋, I'm Dinesh</h1>
-<h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
+<h3 align="center">An Enthusiastic Programmer</h3>
 <p align="center"><img width="1000" height="400" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
 
 <table align="center" width="100%">
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🎓 1st year undergraduate student at Shiv Nadar University, Chennai  
 - 👨‍💻 Pursuing B.Tech AI&DS (Artificial Intelligence & Data Science)  
-- 💻 Coding enthusiast and passionate backend developer  
+- 💻 Coding enthusiast 
 - 🌟 Currently honing my skills in competitive programming
 
     </td>
@@ -68,4 +67,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinuhifi&show_icons=true&locale=en" alt="dinuhifi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuhifi&" alt="dinuhifi" /></p>
--->
