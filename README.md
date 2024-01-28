@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<--
 <h1 align="center">Hello 👋, I'm Dinesh</h1>
 <h3 align="center">An Enthusiastic Programmer and a Passionate Backend Developer</h3>
 <p align="center"><img width="1000" height="400" src="https://github.com/dinuhifi/dinuhifi/blob/main/giphy.gif"></p>
@@ -66,3 +68,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinuhifi&show_icons=true&locale=en" alt="dinuhifi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuhifi&" alt="dinuhifi" /></p>
+-->
